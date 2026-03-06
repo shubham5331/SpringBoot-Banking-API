@@ -1,4 +1,4 @@
-# Banking Application (Spring Boot)
+# Banking Application- API (Spring Boot)
 
 Simple Banking REST API built using Java and Spring Boot.
 
